@@ -1,0 +1,13 @@
+body{
+   background-image: url('https://i.pinimg.com/originals/c8/1f/9f/c81f9fd75dee9d57d894dd913b7ddfe4.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   height: 497px;
+}
+
+.App {
+   text-align: center;
+   font-family: cursive;
+}
+

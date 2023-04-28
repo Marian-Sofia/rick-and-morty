@@ -1,0 +1,20 @@
+.div{
+    display: grid;
+    grid-template-columns: repeat(2, 40%);
+    grid-template-rows: repeat(5, 15%);
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    background-color: white;
+}
+
+.details{
+    
+}
+
+.img{
+    grid-column: 2/3;
+    grid-row: 1/6;
+}
+
